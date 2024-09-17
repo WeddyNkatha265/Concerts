@@ -1,5 +1,5 @@
 
-# Concert App
+# Concert code challenge
 
 This project is a database-driven application to manage bands, venues, and concerts using SQLAlchemy, a Python ORM (Object Relational Mapping) library. The application defines models for bands, venues, and concerts, and allows interaction between them, such as tracking which band performed at which venue on a specific date.
 
