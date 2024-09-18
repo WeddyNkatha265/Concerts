@@ -91,5 +91,3 @@ The project includes sample data to demonstrate the relationships and features. 
 This project is licensed under the MIT License.
 
 ---
-
-This README gives an overview of your project setup, including installation instructions and key functionality. Make sure to update the GitHub repository link if needed!
